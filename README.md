@@ -77,7 +77,7 @@ Sou apaixonada por resolver problemas, explorar dados com propósito e construir
     title="SAS"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/6/6b/SAS_logo_horiz.svg"
+    src="https://images.seeklogo.com/logo-png/28/1/sas-logo-png_seeklogo-289781.png"
 />
 
 
