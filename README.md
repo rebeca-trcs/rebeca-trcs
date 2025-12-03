@@ -17,7 +17,6 @@ Sou apaixonada por resolver problemas, explorar dados com propósito e construir
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-
     <!-- Gmail -->
     <a href="mailto:rebeca.trcs@gmail.com">
         <img 
