@@ -80,13 +80,4 @@ Sou apaixonada por resolver problemas, explorar dados com propósito e construir
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg"
 />
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
 <br><br>
