@@ -7,6 +7,7 @@ Atualmente, curso **Tecnologia em Análise e Desenvolvimento de Sistemas (IFSP)*
 Sou apaixonada por resolver problemas, explorar dados com propósito e construir análises que geram impacto real no negócio.
 
 ---
+### 📞 Contate-me!
 
 <p align="left">
     <!-- LinkedIn -->
