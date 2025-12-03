@@ -7,8 +7,30 @@ Atualmente, curso **Tecnologia em Análise e Desenvolvimento de Sistemas (IFSP)*
 Sou apaixonada por resolver problemas, explorar dados com propósito e construir análises que geram impacto real no negócio.
 
 ---
+<p align="left">
 
-### 🧠 Linguagens, Ferramentas e Tecnologias
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/rebeca-trc/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+
+    <!-- Gmail -->
+    <a href="mailto:rebeca.trcs@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Enviar email"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+
+</p>
+
+
+### 🤖 Linguagens e Tecnologias
 
 <!-- SQL -->
 <img 
