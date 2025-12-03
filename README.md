@@ -2,7 +2,7 @@
 
 Profissional de Dados com experiência em **Análise de Dados, Business Intelligence, Inteligência de Mercado e Tecnologia da Informação**, atuando em empresas como **Bradesco, iFood (Terserv)** e **CREF**. Minha carreira é marcada pela capacidade de transformar dados em insights, criar soluções analíticas e apoiar decisões estratégicas.
 
-Atualmente, curso **Tecnologia em Análise e Desenvolvimento de Sistemas (IFSP)** e trabalho com ferramentas como **SQL, Power BI, Python, SAS, Databricks, Excel Avançado e muito mais!**.
+Atualmente, curso **Tecnologia em Análise e Desenvolvimento de Sistemas (IFSP)** e trabalho com ferramentas como **SQL, Power BI, Python, SAS, Databricks, Excel Avançado e muito mais!**
 
 Sou apaixonada por resolver problemas, explorar dados com propósito e construir análises que geram impacto real no negócio.
 
