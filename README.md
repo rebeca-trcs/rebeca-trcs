@@ -8,7 +8,14 @@ Sou apaixonada por resolver problemas, explorar dados com propósito e construir
 
 ---
 
-<p align="left">
+<!-- NOME CENTRALIZADO -->
+<h1 align="center">Rebeca Tavares Rodrigues</h1>
+<h3 align="center">Analista de Dados | BI | MIS</h3>
+
+<!-- CONTATOS CENTRALIZADOS -->
+<p align="center">
+
+    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/rebeca-trc/" target="_blank">
         <img 
             alt="LinkedIn" 
@@ -16,69 +23,76 @@ Sou apaixonada por resolver problemas, explorar dados com propósito e construir
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+
+    <!-- Gmail -->
+    <a href="mailto:rebeca.trcs@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Enviar email"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+
 </p>
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<!-- SQL -->
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL / SQL Server / MySQL"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
+### <h2 align="center">🧠 Linguagens, Ferramentas e Tecnologias</h2>
 
-<!-- Python -->
-<img 
-    align="left" 
-    alt="Python"
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
+<p align="center">
 
-<!-- Power BI (não tem devicon, use badge bonito) -->
-<img
-    align="left"
-    alt="Power BI"
-    title="Power BI"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://img.icons8.com/color/480/power-bi.png"
-/>
+    <!-- SQL -->
+    <img 
+        alt="SQL" 
+        title="SQL / SQL Server / MySQL"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+    />
 
-<!-- Excel -->
-<img 
-    align="left" 
-    alt="Excel"
-    title="Excel Avançado"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://images.icon-icons.com/2657/PNG/256/excel_icon_161066.png"
-/>
+    <!-- Python -->
+    <img 
+        alt="Python"
+        title="Python"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    />
 
+    <!-- Power BI -->
+    <img
+        alt="Power BI"
+        title="Power BI"
+        width="50px"
+        style="padding-right: 10px;"
+        src="https://img.icons8.com/color/480/power-bi.png"
+    />
 
-<!-- Databricks -->
-<img 
-    align="left" 
-    alt="Databricks"
-    title="Databricks"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg"
-/>
+    <!-- Excel -->
+    <img 
+        alt="Excel"
+        title="Excel Avançado"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://images.icon-icons.com/2657/PNG/256/excel_icon_161066.png"
+    />
 
-<img 
-    align="left" 
-    alt="SAS"
-    title="SAS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://i.pinimg.com/736x/73/96/b8/7396b8543078228985df506d122df2e7.jpg"
-/>
+    <!-- Databricks -->
+    <img 
+        alt="Databricks"
+        title="Databricks"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg"
+    />
 
+    <!-- SAS -->
+    <img 
+        alt="SAS"
+        title="SAS"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://i.pinimg.com/736x/73/96/b8/7396b8543078228985df506d122df2e7.jpg"
+    />
 
-<br><br>
+</p>
