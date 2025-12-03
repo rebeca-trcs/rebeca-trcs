@@ -57,7 +57,7 @@ Sou apaixonada por resolver problemas, explorar dados com propósito e construir
     title="Excel Avançado"
     width="40px" 
     style="padding-right: 10px;" 
-    src="[https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg](https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg)"
+    src="https://images.icon-icons.com/2657/PNG/256/excel_icon_161066.png"
 />
 
 
