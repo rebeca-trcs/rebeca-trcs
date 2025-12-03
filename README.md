@@ -17,7 +17,8 @@ Sou apaixonada por resolver problemas, explorar dados com propósito e construir
         />
     </a>
 </p>
-### 🧠 Linguagens, Ferramentas e Tecnologias
+
+### 🤖 Linguagens e Tecnologias
 
 <!-- SQL -->
 <img 
@@ -79,14 +80,5 @@ Sou apaixonada por resolver problemas, explorar dados com propósito e construir
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg"
 />
 
-<!-- SAP -->
-<img 
-    align="left" 
-    alt="SAP"
-    title="SAP"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/sap/0FAAFF"
-/>
 
 <br><br>
