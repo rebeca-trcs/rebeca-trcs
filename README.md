@@ -57,8 +57,9 @@ Sou apaixonada por resolver problemas, explorar dados com propósito e construir
     title="Excel Avançado"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg"
 />
+
 
 <!-- Databricks -->
 <img 
