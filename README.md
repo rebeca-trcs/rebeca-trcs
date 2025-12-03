@@ -7,8 +7,8 @@ Atualmente, curso **Tecnologia em Análise e Desenvolvimento de Sistemas (IFSP)*
 Sou apaixonada por resolver problemas, explorar dados com propósito e construir análises que geram impacto real no negócio.
 
 ---
-<p align="left">
 
+<p align="left">
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/rebeca-trc/" target="_blank">
         <img 
@@ -29,6 +29,7 @@ Sou apaixonada por resolver problemas, explorar dados com propósito e construir
 
 </p>
 
+---
 
 ### 🤖 Linguagens e Tecnologias
 
